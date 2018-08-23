@@ -1,0 +1,21 @@
+SOFTWARE ENGINEERING
+====================
+Types of software : There are basically 6 types of softwares that we use
+-----------------
+1. System Software
+2. Application Software
+3. Engineering Software
+4. Embedded Software
+5. Web Application Software
+6. AI Software
+
+Failure Curve for Hardware & Software : Initailly the failure rate is more and it slowly decreases with time.
+-------------------------------------   After usage for a long time the failure rate will increase because it becomes old.
+Initial Curve that is the start : Infant Mortality
+Similar to this we have a curve for software.
+
+Things to take care for building a software : 
+-------------------------------------------
+1. Quality
+2. Process
+3. Methods
