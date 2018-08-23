@@ -1,0 +1,7 @@
+Models to be made in Umlet :
+
+1. College Information System
+2. Library Management System
+3. Hospital Management System
+4. Online Shopping System
+5. Banking System
